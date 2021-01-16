@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/button_click"
+        android:icon="@android:drawable/presence_online"
+        android:title="flickr" />
+    <item
+        android:id="@+id/motion_event"
+        android:icon="@android:drawable/presence_away"
+        android:title="db" />
+</menu>
